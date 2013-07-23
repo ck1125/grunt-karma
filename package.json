@@ -23,7 +23,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "karma": "~0.8.5"
+    "karma": "https://github.com/ck1125/karma.git#flags"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
